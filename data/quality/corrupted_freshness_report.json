@@ -1,0 +1,11 @@
+{
+  "report_timestamp": "2026-09-25T09:49:41.496745+00:00",
+  "threshold_days": 180,
+  "total_rows": 22,
+  "stale_rows": 8,
+  "stale_ratio": 0.36363636363636365,
+  "is_fresh": false,
+  "latest_published": "2026-06-12",
+  "oldest_published": "2025-03-28",
+  "mean_age_days": 253.05
+}
